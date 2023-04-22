@@ -29,7 +29,7 @@
   - [Poodle / 최어진]()
 - TEAM B - Morning
   - 🚩 [Shannon / 이세민]()
-  - [DDAN / 박승찬]()
+  - [Ddan / 박승찬](https://github.com/eemdeeks)
   - [Jerry / 이주환]()
   - [Cyndi / 박지은]()
   - [Lianne / 최예은]()
