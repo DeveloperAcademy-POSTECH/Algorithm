@@ -10,9 +10,9 @@
 
 - 기간 : 4월 4째주 ~ 6월 4째주 (10주)
 - Meeting
-  - TEAM A - 매주 월요일 12:40pm
-  - TEAM B (Morning) - @ 12:40pm
-  - TEAM B (Afternoon) - @
+  - TEAM A - 월요일 12:40pm (오후 세션 이전)
+  - TEAM B (Morning) - 금요일 12:40pm (오후 세션 이전)
+  - TEAM B (Afternoon) - 수요일 6:00pm (오후 세션 이후)
 
 
 
@@ -66,7 +66,7 @@
 - 매 주 공부할(문제를 풀) 주제를 정합니다. (Ex. Stack, Queue, Greedy, Dynamic Programming..)
 - 각자 자신에게 맞는 난이도의 문제를 5문제가량 미팅날까지 풀어옵니다!
 - `for person in TEAM:`
-  - 각자 풀었온 문제들 중 가장 인상 깊었던 문제에 대해 공유합니다.
+  - 각자 풀어온 문제들 중 가장 인상 깊었던 문제에 대해 공유합니다.
 
 
 
@@ -129,7 +129,7 @@
 │   ├── Week 2
 │   │   ├── Jeckmu
 │   │   └── ...
-│		├── ...
+│   ├── ...
 │   └── ...
 ├── TEAM B - Afternoon
 │   ├── Week 1
@@ -160,8 +160,16 @@
 
 #### TEAM A
 
-~
+- [백준 1647] 도시 분할 계획 (Gold IV)
+  https://www.acmicpc.net/problem/1647
+
+- [백준 1987] 알파벳 (Gold IV)
+  https://www.acmicpc.net/problem/1987
 
 #### TEAM B
 
-Stack, Queue
+**Stack, Queue**
+
+추천 문제 : 프로그래머스 코딩테스트 고득점 Kit - 스택/큐
+
+https://school.programmers.co.kr/learn/courses/30/parts/12081
