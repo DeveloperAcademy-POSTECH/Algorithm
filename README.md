@@ -80,6 +80,8 @@
 - 각자의 닉네임으로 Fork한 Repository에서 branching합니다. (Ex. 'Jeckmu' 브랜치 생성)
 - 푼 문제(+풀이과정, 설명)을 commit 후 PR 요청을 합니다.
 - 각 팀의 미팅 시간에, 각 팀의 리더가 PR을 확인하고 Merge합니다.
+- PR Message
+  `[N주차] 닉네임` (Ex. `[1주차] Jeckmu`)
 
 
 
