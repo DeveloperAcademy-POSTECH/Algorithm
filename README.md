@@ -138,7 +138,7 @@
 │   │   │   └── ...
 │   │   ├── ...
 │   │   └── ...
-│		├── ...
+│   ├── ...
 │   └── ...
 └── TEAM B - Afternoon
     ├── Week 1
@@ -147,7 +147,7 @@
     │   │   └── ...
     │   ├── ...
     │   └── ...
- 		├── ...
+    ├── ...
     └── ...
 ```
 
@@ -160,11 +160,9 @@
 
 #### TEAM A
 
-- [백준 1647] 도시 분할 계획 (Gold IV)
-  https://www.acmicpc.net/problem/1647
-
-- [백준 1987] 알파벳 (Gold IV)
-  https://www.acmicpc.net/problem/1987
+- [백준] [1647. 도시 분할 계획 (Gold IV)](https://www.acmicpc.net/problem/1647)
+  
+- [백준] [1987. 알파벳 (Gold IV)](https://www.acmicpc.net/problem/1987)
 
 #### TEAM B
 
@@ -173,3 +171,17 @@
 추천 문제 : 프로그래머스 코딩테스트 고득점 Kit - 스택/큐
 
 https://school.programmers.co.kr/learn/courses/30/parts/12081
+
+
+
+### Week 2
+
+#### TEAM A
+
+프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제
+
+- [프로그래머스] [150369. 택배 배달과 수거하기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+
+- [프로그래머스] [150367. 표현 가능한 이진트리 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
+
+- [프로그래머스] [150365. 미로 탈출 명령어 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
