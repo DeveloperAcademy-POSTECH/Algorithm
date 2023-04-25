@@ -2,9 +2,7 @@
 
 #### in Apple Developer Academy @ POSTECH
 
-
-
-
+<br />
 
 ## ⏰ Time & Period
 
@@ -14,9 +12,7 @@
   - TEAM B (Morning) - 금요일 12:40pm (오후 세션 이전)
   - TEAM B (Afternoon) - 수요일 6:00pm (오후 세션 이후)
 
-
-
-
+<br />
 
 ## Participants
 
@@ -40,9 +36,7 @@
   - [Celan / 이승준]()
   - [Benny / 한기백]()
 
-
-
-
+<br />
 
 ## Process
 
@@ -59,8 +53,6 @@
   - 문제에 대한 각자의 후기를 남깁니다.
     - Ex. 이거 이렇게 풀면 더 깔끔해요! / 이거 Time Complexity가 이게 아니라 저렇게 되는 것 같습니당. / 이 문제 너무 어려웠음 ㅠㅠ
 
-
-
 ### TEAM B (Morning / Afternoon)
 
 - 매 주 공부할(문제를 풀) 주제를 정합니다. (Ex. Stack, Queue, Greedy, Dynamic Programming..)
@@ -68,9 +60,7 @@
 - `for person in TEAM:`
   - 각자 풀어온 문제들 중 가장 인상 깊었던 문제에 대해 공유합니다.
 
-
-
-
+<br />
 
 ## Pull Request & Commit Rule
 
@@ -82,8 +72,6 @@
 - 각 팀의 미팅 시간에, 각 팀의 리더가 PR을 확인하고 Merge합니다.
 - PR Message
   `[N주차] 닉네임` (Ex. `[1주차] Jeckmu`)
-
-
 
 ### Commit Rule
 
@@ -104,9 +92,7 @@
   2. 주차별로 한번에 commit할 때는 `[N주차] 닉네임`
      - Ex. `[1주차] Jeckmu`
 
-
-
-
+<br />
 
 ## File Structure (Example)
 
@@ -151,37 +137,95 @@
     └── ...
 ```
 
-
-
+<br />
 
 ## History
 
-### Week 1
+### TEAM A
 
-#### TEAM A
+<div>
+<table>
+<tbody>
 
-- [백준] [1647. 도시 분할 계획 (Gold IV)](https://www.acmicpc.net/problem/1647)
-  
-- [백준] [1987. 알파벳 (Gold IV)](https://www.acmicpc.net/problem/1987)
+<tr>
+<td><strong>주차</strong></td>
+<td><strong>테마</strong></td>
+<td><strong>문제 번호 및 이름</strong></td>
+</tr>
 
-#### TEAM B
+<!-- 1주차 시작 -->
+<tr>
+<td>1</td>
+<td>백준 - 자유</td>
+<td>
+  [백준]
+   <a target="_blank" href="https://www.acmicpc.net/problem/1647">
+      1647. 도시 분할 계획 (Gold IV)
+   </a>
+   <br />
+   [백준]
+   <a target="_blank" href="https://www.acmicpc.net/problem/1987">
+      1987. 알파벳 (Gold IV)
+   </a>
+</td>
+</tr>
+<!-- 1주차 끝 -->
 
-**Stack, Queue**
+<!-- 2주차 시작 -->
+<tr>
+<td>2</td>
+<td>프로그래머스 -
+<strong>2023 KAKAO BLIND RECRUITMENT</strong>
+기출문제</td>
+<td>
+  [프로그래머스]
+   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">
+      150369. 택배 배달과 수거하기 (Lv.2)
+   </a>
+   <br />
+  [프로그래머스]
+   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">
+      150367. 표현 가능한 이진트리 (Lv.3)
+   </a>
+   <br />
+  [프로그래머스]
+   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150365">
+      150365. 미로 탈출 명령어 (Lv.3)
+   </a>
+</td>
+</tr>
+<!-- 2주차 끝 -->
 
-추천 문제 : 프로그래머스 코딩테스트 고득점 Kit - 스택/큐
+</tbody>
+</table>
+</div>
 
-https://school.programmers.co.kr/learn/courses/30/parts/12081
+### TEAM B
 
+<div>
+<table>
+<tbody>
 
+<tr>
+<td><strong>주차</strong></td>
+<td><strong>테마</strong></td>
+<td><strong>문제 번호 및 이름</strong></td>
+</tr>
 
-### Week 2
+<!-- 1주차 시작 -->
+<tr>
+<td>1</td>
+<td>프로그래머스 -
+<strong>코딩테스트 고득점 Kit</strong>
+</td>
+<td>
+   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/parts/12081">
+      스택/큐
+   </a>
+</td>
+</tr>
+<!-- 1주차 끝 -->
 
-#### TEAM A
-
-프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제
-
-- [프로그래머스] [150369. 택배 배달과 수거하기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
-
-- [프로그래머스] [150367. 표현 가능한 이진트리 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)
-
-- [프로그래머스] [150365. 미로 탈출 명령어 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+</tbody>
+</table>
+</div>
