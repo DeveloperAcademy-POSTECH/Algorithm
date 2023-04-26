@@ -35,6 +35,7 @@
   - [Soda / 김민]()
   - [Celan / 이승준]()
   - [Benny / 한기백]()
+  - [Madeline / 신정연]()
 
 <br />
 
