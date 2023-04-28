@@ -18,24 +18,25 @@
 
 - TEAM A
   - 🚩🚩 [Jeckmu / 이재원](https://github.com/220v-K)
-  - [Ollie / 김세이]()
-  - [Eren / 문희찬]()
-  - [Woody / 박현우]()
-  - [Sunday / 이선호]()
-  - [Poodle / 최어진]()
+  - [Ollie / 김세이](https://github.com/vanism2091)
+  - [Eren / 문희찬](https://github.com/mun9769)
+  - [Woody / 박현우](https://github.com/migusdn)
+  - [Sunday / 이선호](https://github.com/Sunhofficial)
+  - [Poodle / 최어진](https://github.com/poodlepoodle)
 - TEAM B - Morning
-  - 🚩 [Shannon / 이세민]()
+  - 🚩 [Shannon / 이세민](https://github.com/cutthebutter)
   - [Ddan / 박승찬](https://github.com/eemdeeks)
-  - [Jerry / 이주환]()
-  - [Cyndi / 박지은]()
-  - [Lianne / 최예은]()
+  - [Jerry / 이주환](https://github.com/jhwan2)
+  - [Cyndi / 박지은](https://github.com/cyndi0330)
+  - [Lianne / 최예은](https://github.com/lianne-b)
+  - [Hayo / 김동혁]()
 - TEAM B - Afternoon
-  - 🚩 [Swimmer / 황지우]()
-  - [Lets / 고석환]()
-  - [Soda / 김민]()
-  - [Celan / 이승준]()
-  - [Benny / 한기백]()
-  - [Madeline / 신정연]()
+  - 🚩 [Swimmer / 황지우](https://github.com/earlysummer0303)
+  - [Lets / 고석환](https://github.com/alpaka99)
+  - [Soda / 김민](https://github.com/minnnidev)
+  - [Celan / 이승준](https://github.com/valselee)
+  - [Benny / 한기백](https://github.com/ivorrr987)
+  - [Madeline / 신정연](https://github.com/MADElinessss)
 
 <br />
 
@@ -144,89 +145,18 @@
 
 ### TEAM A
 
-<div>
-<table>
-<tbody>
+| 주차 | 테마                                                     | 문제 번호 및 이름                                            |
+| :--- | :------------------------------------------------------- | :----------------------------------------------------------- |
+| 1    | 백준 - 자유                                              | [백준] [1647. 도시 분할 계획 (Gold IV)](https://www.acmicpc.net/problem/1647)<br/>[백준] [1987. 알파벳 (Gold IV)](https://www.acmicpc.net/problem/1987) |
+| 2    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150369. 택배 배달과 수거하기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)<br/>[프로그래머스] [150367. 표현 가능한 이진트리 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)<br/>[프로그래머스] [150365. 미로 탈출 명령어 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |
+| 3    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150370. 개인정보 수집 유효기간 (Lv.1)](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<br/>[프로그래머스] [150368. 이모티콘 할인행사 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150368)<br/>[프로그래머스] [150366. 표 병합 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366)<br/>[프로그래머스] [150364. 1,2,3 떨어트리기 (Lv.4)](https://school.programmers.co.kr/learn/courses/30/lessons/150364) |
 
-<tr>
-<td><strong>주차</strong></td>
-<td><strong>테마</strong></td>
-<td><strong>문제 번호 및 이름</strong></td>
-</tr>
+<br/>
 
-<!-- 1주차 시작 -->
-<tr>
-<td>1</td>
-<td>백준 - 자유</td>
-<td>
-  [백준]
-   <a target="_blank" href="https://www.acmicpc.net/problem/1647">
-      1647. 도시 분할 계획 (Gold IV)
-   </a>
-   <br />
-   [백준]
-   <a target="_blank" href="https://www.acmicpc.net/problem/1987">
-      1987. 알파벳 (Gold IV)
-   </a>
-</td>
-</tr>
-<!-- 1주차 끝 -->
+### TEAM B - Morning, Afternoon
 
-<!-- 2주차 시작 -->
-<tr>
-<td>2</td>
-<td>프로그래머스 -
-<strong>2023 KAKAO BLIND RECRUITMENT</strong>
-기출문제</td>
-<td>
-  [프로그래머스]
-   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150369">
-      150369. 택배 배달과 수거하기 (Lv.2)
-   </a>
-   <br />
-  [프로그래머스]
-   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150367">
-      150367. 표현 가능한 이진트리 (Lv.3)
-   </a>
-   <br />
-  [프로그래머스]
-   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/lessons/150365">
-      150365. 미로 탈출 명령어 (Lv.3)
-   </a>
-</td>
-</tr>
-<!-- 2주차 끝 -->
+| 주차 | 테마          |
+| ---- | ------------- |
+| 1    | Stack / Queue |
+| 2    | Brute-Force   |
 
-</tbody>
-</table>
-</div>
-
-### TEAM B
-
-<div>
-<table>
-<tbody>
-
-<tr>
-<td><strong>주차</strong></td>
-<td><strong>테마</strong></td>
-<td><strong>문제 번호 및 이름</strong></td>
-</tr>
-
-<!-- 1주차 시작 -->
-<tr>
-<td>1</td>
-<td>프로그래머스 -
-<strong>코딩테스트 고득점 Kit</strong>
-</td>
-<td>
-   <a target="_blank" href="https://school.programmers.co.kr/learn/courses/30/parts/12081">
-      스택/큐
-   </a>
-</td>
-</tr>
-<!-- 1주차 끝 -->
-
-</tbody>
-</table>
-</div>
