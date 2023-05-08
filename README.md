@@ -58,9 +58,9 @@
 ### TEAM B (Morning / Afternoon)
 
 - 매 주 공부할(문제를 풀) 주제를 정합니다. (Ex. Stack, Queue, Greedy, Dynamic Programming..)
-- 각자 자신에게 맞는 난이도의 문제를 5문제가량 미팅날까지 풀어옵니다!
+- 각자 자신에게 맞는 난이도의 문제를 최소 3문제 이상 미팅날까지 풀어옵니다!
 - `for person in TEAM:`
-  - 각자 풀어온 문제들 중 가장 인상 깊었던 문제에 대해 공유합니다.
+  - 각자 풀어온 문제들 중 인상 깊었던 문제에 대해 공유하고, 서로 의견을 나눕니다.
 
 <br />
 
@@ -155,8 +155,16 @@
 
 ### TEAM B - Morning, Afternoon
 
-| 주차 | 테마          |
-| ---- | ------------- |
-| 1    | Stack / Queue |
-| 2    | Brute-Force   |
+| 주차 | 테마                             |
+| ---- | -------------------------------- |
+| 0    | Kick-Off                         |
+| 1    | Brute-Force                      |
+| 2    | Implementation, Sorting          |
+| 3    | Binary Search, Parametric Search |
+| 4    | Stack, Queue                     |
+| 5    | BFS, DFS                         |
+| 6    | Backtracking                     |
+| 7    | Greedy                           |
+| 8    | Dynamic Programming              |
+| 9    | Dijkstra, ~                      |
 
