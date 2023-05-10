@@ -35,23 +35,7 @@ def solution(array, commands):
         answer.append(sorted(array[each[0]-1:each[1]])[each[2]-1])
     return answer
 ```
-
-- 4673, 셀프 넘버
-```py
-arr = [i for i in range(0,10001)]
-tmp = []
-
-for i in arr:
-    # 생성자 확인하기
-    selfNum = i + sum(map(int, str(i)))
-    # 생성자가 없으면 나중에 지우기
-    if selfNum <= 10000:
-        tmp.append(selfNum)
-
-answer = set(arr) - set(tmp)
-for num in sorted(list(answer)):
-    print(num)
-```
+---
 
 - [level 2] 조이스틱
 - [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42860) 
