@@ -158,6 +158,8 @@
 | 2    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150369. 택배 배달과 수거하기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)<br/>[프로그래머스] [150367. 표현 가능한 이진트리 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)<br/>[프로그래머스] [150365. 미로 탈출 명령어 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |
 | 3    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150370. 개인정보 수집 유효기간 (Lv.1)](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<br/>[프로그래머스] [150368. 이모티콘 할인행사 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150368)<br/>[프로그래머스] [150366. 표 병합 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366)<br/>[프로그래머스] [150364. 1,2,3 떨어트리기 (Lv.4)](https://school.programmers.co.kr/learn/courses/30/lessons/150364) |
 | 4    | 백준                                                     | [백준] [17142. 연구소 3 (Gold III)](https://www.acmicpc.net/problem/17142)<br/>[백준] [2143. 두 배열의 합 (Gold III)](https://www.acmicpc.net/problem/2143)<br/>[백준] [1043. 거짓말 (Gold IV)](https://www.acmicpc.net/problem/1043) |
+| 5    | 백준                                                     | [백준] [2342. Dance Dance Revolution (Gold III)](https://www.acmicpc.net/problem/2342)<br/>[백준] [1644. 소수의 연속합 (Gold III)](https://www.acmicpc.net/problem/1644) |
+| 6    | -                                                        | [백준] [14939. 불 끄기 (Platinum V)](https://www.acmicpc.net/problem/14939)<br />... |
 
 <br/>
 
