@@ -55,7 +55,14 @@
   - 문제에 대한 각자의 후기를 남깁니다.
     - Ex. 이거 이렇게 풀면 더 깔끔해요! / 이거 Time Complexity가 이게 아니라 저렇게 되는 것 같습니당. / 이 문제 너무 어려웠음 ㅠㅠ
 
-### TEAM B (Morning / Afternoon)
+### TEAM B (Morning)
+
+- 매 주 공부할(문제를 풀) 주제를 정합니다. (Ex. Stack, Queue, Greedy, Dynamic Programming..)
+- 각자 자신에게 맞는 난이도의 문제를 최소 3문제 이상 미팅날까지 풀어옵니다!
+- 매주 해당 주제를 모두 10분내에 설명해줄 수 있을 상태로 공부하고, 미팅날, 랜덤으로 발표한 사람을 정해 발표합니다.
+- 지난 주에 공부한 주제에에서, 공통 문제를 하나 정해서 풀어옵니다.
+
+### TEAM B (Afternoon)
 
 - 매 주 공부할(문제를 풀) 주제를 정합니다. (Ex. Stack, Queue, Greedy, Dynamic Programming..)
 - 각자 자신에게 맞는 난이도의 문제를 최소 3문제 이상 미팅날까지 풀어옵니다!
@@ -147,13 +154,14 @@
 
 | 주차 | 테마                                                     | 문제 번호 및 이름                                            |
 | :--- | :------------------------------------------------------- | :----------------------------------------------------------- |
-| 1    | 백준 - 자유                                              | [백준] [1647. 도시 분할 계획 (Gold IV)](https://www.acmicpc.net/problem/1647)<br/>[백준] [1987. 알파벳 (Gold IV)](https://www.acmicpc.net/problem/1987) |
+| 1    | 백준                                                     | [백준] [1647. 도시 분할 계획 (Gold IV)](https://www.acmicpc.net/problem/1647)<br/>[백준] [1987. 알파벳 (Gold IV)](https://www.acmicpc.net/problem/1987) |
 | 2    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150369. 택배 배달과 수거하기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150369)<br/>[프로그래머스] [150367. 표현 가능한 이진트리 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150367)<br/>[프로그래머스] [150365. 미로 탈출 명령어 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |
 | 3    | 프로그래머스 - **2023 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [150370. 개인정보 수집 유효기간 (Lv.1)](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<br/>[프로그래머스] [150368. 이모티콘 할인행사 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/150368)<br/>[프로그래머스] [150366. 표 병합 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/150366)<br/>[프로그래머스] [150364. 1,2,3 떨어트리기 (Lv.4)](https://school.programmers.co.kr/learn/courses/30/lessons/150364) |
+| 4    | 백준                                                     | [백준] [17142. 연구소 3 (Gold III)](https://www.acmicpc.net/problem/17142)<br/>[백준] [2143. 두 배열의 합 (Gold III)](https://www.acmicpc.net/problem/2143)<br/>[백준] [1043. 거짓말 (Gold IV)](https://www.acmicpc.net/problem/1043) |
 
 <br/>
 
-### TEAM B - Morning, Afternoon
+### TEAM B - Afternoon
 
 | 주차 | 테마                             |
 | ---- | -------------------------------- |
@@ -167,4 +175,21 @@
 | 7    | Greedy                           |
 | 8    | Dynamic Programming              |
 | 9    | Dijkstra, ~                      |
+
+<br/>
+
+### TEAM B - Morning
+
+| 주차 | 테마                                                         |
+| ---- | ------------------------------------------------------------ |
+| 0    | Kick-Off                                                     |
+| 1    | Brute-Force                                                  |
+| 2    | Implementation, Sorting(Bubble, Insertion, Selection, Quick, Merge) |
+| 3    | Recursion, Dynamic Programming                               |
+| 4    |                                                              |
+| 5    |                                                              |
+| 6    |                                                              |
+| 7    |                                                              |
+| 8    |                                                              |
+| 9    |                                                              |
 
