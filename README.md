@@ -8,7 +8,7 @@
 
 - 기간 : 4월 4째주 ~ 6월 4째주 (10주)
 - Meeting
-  - TEAM A - 월요일 12:40pm (오후 세션 이전)
+  - TEAM A - 월요일 1:00pm (오후 세션 이전)
   - TEAM B (Morning) - 금요일 12:40pm (오후 세션 이전)
   - TEAM B (Afternoon) - 수요일 6:00pm (오후 세션 이후)
 
@@ -27,14 +27,15 @@
   - 🚩 [Shannon / 이세민](https://github.com/cutthebutter)
   - [Ddan / 박승찬](https://github.com/eemdeeks)
   - [Jerry / 이주환](https://github.com/jhwan2)
-  - [Cyndi / 박지은](https://github.com/cyndi0330)
+  - [Cyndi / 박지은](https://github.com/cyndi0330) (~ Week 1)
   - [Lianne / 최예은](https://github.com/lianne-b)
   - [Hayo / 김동혁]()
+  - [Azhy / 김성훈](https://github.com/ungchun) (Week 3 ~)
 - TEAM B - Afternoon
   - 🚩 [Swimmer / 황지우](https://github.com/earlysummer0303)
   - [Lets / 고석환](https://github.com/alpaka99)
-  - [Soda / 김민](https://github.com/minnnidev)
-  - [Celan / 이승준](https://github.com/valselee)
+  - [Soda / 김민](https://github.com/minnnidev) 
+  - [Celan / 이승준](https://github.com/valselee) (~ Week 2)
   - [Benny / 한기백](https://github.com/ivorrr987)
   - [Madeline / 신정연](https://github.com/MADElinessss)
 
@@ -160,6 +161,8 @@
 | 4    | 백준                                                     | [백준] [17142. 연구소 3 (Gold III)](https://www.acmicpc.net/problem/17142)<br/>[백준] [2143. 두 배열의 합 (Gold III)](https://www.acmicpc.net/problem/2143)<br/>[백준] [1043. 거짓말 (Gold IV)](https://www.acmicpc.net/problem/1043) |
 | 5    | 백준                                                     | [백준] [2342. Dance Dance Revolution (Gold III)](https://www.acmicpc.net/problem/2342)<br/>[백준] [1644. 소수의 연속합 (Gold III)](https://www.acmicpc.net/problem/1644)<br />[백준] [14939. 불 끄기 (Platinum V)](https://www.acmicpc.net/problem/14939) |
 | 6    | 백준                                                     | [백준] [2295. 세 수의 합 (Gold IV)](https://www.acmicpc.net/problem/2295)<br/>[백준] [13904. 과제 (Gold III)](https://www.acmicpc.net/problem/13904)<br/>(Optional) [백준] [2098. 외판원 순회 (Gold I)](https://www.acmicpc.net/problem/2098) |
+| 7    | 프로그래머스 - **2022 KAKAO TECH INTERNSHIP** 기출문제   | [프로그래머스] [118666. 성격 유형 검사하기 (Lv.1)](https://school.programmers.co.kr/learn/courses/30/lessons/118666)<br/>[프로그래머스] [118667. 두 큐 합 같게 만들기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/118667)<br/>[프로그래머스] [118668. 코딩 테스트 공부 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/118668)<br/>[프로그래머스] [118669. 등산코스 정하기 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
+| 8    | 프로그래머스 - **2022 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [92341. 주차 요금 계산 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)<br/>[프로그래머스] [92342. 양궁대회 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br/>[프로그래머스] [92343. 양과 늑대 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/92343)<br/>[프로그래머스] [92344. 파괴되지 않은 건물 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
 
 <br/>
 
@@ -182,16 +185,16 @@
 
 ### TEAM B - Morning
 
-| 주차 | 테마                                                         |
-| ---- | ------------------------------------------------------------ |
-| 0    | Kick-Off                                                     |
-| 1    | Brute-Force                                                  |
-| 2    | Implementation, Sorting(Bubble, Insertion, Selection, Quick, Merge) |
-| 3    | Recursion, Dynamic Programming                               |
-| 4    |                                                              |
-| 5    |                                                              |
-| 6    |                                                              |
-| 7    |                                                              |
-| 8    |                                                              |
-| 9    |                                                              |
+| 주차 | 테마                    |
+| ---- | ----------------------- |
+| 0    | Kick-Off                |
+| 1    | Brute-Force             |
+| 2    | Stack, Queue            |
+| 3    | Implementation, Sorting |
+| 4    | Dynamic Programming     |
+| 5    |                         |
+| 6    |                         |
+| 7    |                         |
+| 8    |                         |
+| 9    |                         |
 
