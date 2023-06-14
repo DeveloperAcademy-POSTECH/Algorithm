@@ -2,7 +2,7 @@
 # 백준-1987-알파벳
 
 '''
-우선 이 문제는 결과적으로 풀지 못했습니다. 시간 초과가 계속 나더라고요.
+우선 이 문제는 결과적으로 풀지 못했습니다. 시간 초과가 계속 나더라고요. -> 23.06.11 해결했습니다... Python3말고 Pypy3로 하니까 풀리더라고요. 풀이4에 남겨둘게요
 그래도 다른 분들과 함께 고민해보고 싶어서 넣었습니다.
 
 저는 아직도 이 문제의 시간복잡도에 대해 정확히 알지 못하는데요. 제일 아래에 시간복잡도에 대해 생각해본 과정을 적어놓을테니 다른 분들도 한번 고민해보시고 얘기 나누면 좋을 것 같습니다.
@@ -148,4 +148,40 @@ O X X X O
 
 어쩌면 제가 사고의 전개를 처음부터 잘못한 것일지도 모릅니다. 이 글을 가장 아래에 쓴 이유가 다른 분들은 혹시 틀렸을지도 모를 제 사고 과정을 따르지 않고
 각자 생각해보시기를 바랐기 떄문입니다. 이 문제의 시간 복잡도와 관련해서 아이디어가 있으면 언제든지 연락주세요..!
+'''
+
+# 풀이4
+import sys
+
+input = sys.stdin.readline
+
+def dfs(x, y, count):
+    global max_count
+    max_count = max(max_count, count)
+    for idx in range(4):
+        next_x, next_y = x + dx[idx], y + dy[idx]
+        if 0 <= next_x < c and 0 <= next_y < r and is_visited[ord(alphabets[next_y][next_x])-65] == False:
+            is_visited[ord(alphabets[next_y][next_x])-65] = True
+            dfs(next_x, next_y, count+1)
+            is_visited[ord(alphabets[next_y][next_x])-65] = False
+            
+r, c = map(int, input().split())
+alphabets = []
+for _ in range(r):
+    alphabets.append(list(input().rstrip()))
+
+dx = [0, 0, -1, 1]
+dy = [-1, 1, 0, 0]
+
+is_visited = [False for _ in range(26)]
+is_visited[ord(alphabets[0][0])-65] = True
+        
+max_count = 1
+
+dfs(0, 0, 1)
+
+print(max_count)
+'''
+Pypy3를 통해 소요 시간을 줄일 수 있었습니다.
+보통 Pypy3가 Python3에 비해 소요시간은 짧고 필요메모리는 더 크다고 합니다.
 '''
