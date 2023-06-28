@@ -1,3 +1,6 @@
+# https://www.acmicpc.net/problem/1912
+# 백준-1912-연속합
+
 import sys
 
 input = sys.stdin.readline
