@@ -6,15 +6,27 @@
 
 ## ⏰ Time & Period
 
-- 기간 : 4월 4째주 ~ 6월 4째주 (10주)
+### Season 1
+
+- 기간 : 4월 4째주 ~ 6월 4째주+@ (10주+@)
 - Meeting
   - TEAM A - 월요일 1:00pm (오후 세션 이전)
   - TEAM B (Morning) - 금요일 12:40pm (오후 세션 이전)
   - TEAM B (Afternoon) - 수요일 6:00pm (오후 세션 이후)
 
+### Season 2
+
+- 기간 : 8월 1째주 ~ (아마 아카데미 끝날때까지)
+- Meeting
+  - TEAM A - 
+  - TEAM B - 
+  - 
+
 <br />
 
 ## Participants
+
+### Season 1
 
 - TEAM A
   - 🚩🚩 [Jeckmu / 이재원](https://github.com/220v-K)
@@ -26,10 +38,10 @@
 - TEAM B - Morning
   - 🚩 [Shannon / 이세민](https://github.com/cutthebutter)
   - [Ddan / 박승찬](https://github.com/eemdeeks)
-  - [Jerry / 이주환](https://github.com/jhwan2)
+  - [Jerry / 이주환](https://github.com/jhwan2) (~Week 4)
   - [Cyndi / 박지은](https://github.com/cyndi0330) (~ Week 1)
-  - [Lianne / 최예은](https://github.com/lianne-b)
-  - [Hayo / 김동혁]()
+  - [Lianne / 최예은](https://github.com/lianne-b) (~ Week 3)
+  - [Hayo / 김동혁]() (~ Week 1)
   - [Azhy / 김성훈](https://github.com/ungchun) (Week 3 ~)
 - TEAM B - Afternoon
   - 🚩 [Swimmer / 황지우](https://github.com/earlysummer0303)
@@ -38,6 +50,13 @@
   - [Celan / 이승준](https://github.com/valselee) (~ Week 2)
   - [Benny / 한기백](https://github.com/ivorrr987)
   - [Madeline / 신정연](https://github.com/MADElinessss)
+
+### Season 2
+
+- TEAM A
+  - 
+- TEAM B
+  - 
 
 <br />
 
@@ -149,7 +168,7 @@
 
 <br />
 
-## History
+## History (Season 1)
 
 ### TEAM A
 
@@ -168,33 +187,36 @@
 
 ### TEAM B - Afternoon
 
-| 주차 | 테마                             |
-| ---- | -------------------------------- |
-| 0    | Kick-Off                         |
-| 1    | Brute-Force                      |
-| 2    | Implementation, Sorting          |
-| 3    | Binary Search, Parametric Search |
-| 4    | Stack, Queue                     |
-| 5    | BFS, DFS                         |
-| 6    | Backtracking                     |
-| 7    | Greedy                           |
-| 8    | Dynamic Programming              |
-| 9    | Dijkstra, ~                      |
+| 주차 | 테마                              |
+| ---- | --------------------------------- |
+| 0    | Kick-Off                          |
+| 1    | Brute-Force                       |
+| 2    | Implementation, Sorting           |
+| 3    | Binary Search, Parametric Search  |
+| 4    | Stack, Queue                      |
+| 5    | BFS, DFS                          |
+| 6    | Backtracking                      |
+| 7    | Greedy                            |
+| 8    | Dynamic Programming               |
+| 9    | Dijkstra                          |
+| 10   | 자유 문제                         |
+| 11   | Union-Find, Minimum Spanning Tree |
+| 12   | Topological Sort                  |
 
 <br/>
 
 ### TEAM B - Morning
 
-| 주차 | 테마                    |
-| ---- | ----------------------- |
-| 0    | Kick-Off                |
-| 1    | Brute-Force             |
-| 2    | Stack, Queue            |
-| 3    | Implementation, Sorting |
-| 4    | Dynamic Programming     |
-| 5    |                         |
-| 6    |                         |
-| 7    |                         |
-| 8    |                         |
-| 9    |                         |
+| 주차 | 테마                                   |
+| ---- | -------------------------------------- |
+| 0    | Kick-Off                               |
+| 1    | Brute-Force                            |
+| 2    | Stack, Queue                           |
+| 3    | Implementation, Sorting                |
+| 4    | Dynamic Programming                    |
+| 5    | Binary Search                          |
+| 6    | BFS / DFS                              |
+| 7    | Greedy                                 |
+| 8    | Floyd-Warshall, Bellman-Ford, Dijkstra |
+| 9    |                                        |
 
