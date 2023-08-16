@@ -8,7 +8,7 @@
 
 ### Season 1
 
-- 기간 : 4월 4째주 ~ 6월 4째주+@ (10주+@)
+- 기간 : 4월 4째주 ~ 6월 4째주+@
 - Meeting
   - TEAM A - 월요일 1:00pm (오후 세션 이전)
   - TEAM B (Morning) - 금요일 12:40pm (오후 세션 이전)
@@ -18,9 +18,10 @@
 
 - 기간 : 8월 1째주 ~ (아마 아카데미 끝날때까지)
 - Meeting
-  - TEAM A - 
-  - TEAM B - 
-  - 
+  - TEAM A - 화요일 1:00pm
+  - TEAM B1 - 수요일 6:00pm
+  - TEAM B2 - 수요일 7:00pm
+  - TEAM C - 목요일 12:00pm
 
 <br />
 
@@ -54,9 +55,27 @@
 ### Season 2
 
 - TEAM A
-  - 
-- TEAM B
-  - 
+  - 🚩🚩 [Jeckmu / 이재원](https://github.com/220v-K)
+  - [Eren / 문희찬](https://github.com/mun9769)
+  - [Woody / 박현우](https://github.com/migusdn)
+  - [Poodle / 최어진](https://github.com/poodlepoodle)
+- TEAM B1
+  - [Lets / 고석환](https://github.com/alpaka99)
+  - [Soda / 김민](https://github.com/minnnidev) 
+  - [Benny / 한기백](https://github.com/ivorrr987)
+  - [Madeline / 신정연](https://github.com/MADElinessss)
+- TEAM B2
+  - [Ollie / 김세이](https://github.com/vanism2091)
+  - [Moana / 조채원](https://github.com/chaewon-moana)
+  - [Yong / 최진용](https://github.com/it794613)
+  - [Musk / 유인호](https://github.com/Oreo-Mcflurry)
+
+- TEAM C
+  - [Ssup / 고경섭](https://github.com/Suppppppp)
+  - [Chaekie / 김채경](https://github.com/chaekie)
+  - [Greed / 이동국](https://github.com/Greeddk)
+  - [Cliff / 윤범태](https://github.com/ayaysir)
+
 
 <br />
 
@@ -168,9 +187,9 @@
 
 <br />
 
-## History (Season 1)
+## History
 
-### TEAM A
+### TEAM A (Season 1, 2)
 
 | 주차 | 테마                                                     | 문제 번호 및 이름                                            |
 | :--- | :------------------------------------------------------- | :----------------------------------------------------------- |
@@ -182,30 +201,37 @@
 | 6    | 백준                                                     | [백준] [2295. 세 수의 합 (Gold IV)](https://www.acmicpc.net/problem/2295)<br/>[백준] [13904. 과제 (Gold III)](https://www.acmicpc.net/problem/13904)<br/>(Optional) [백준] [2098. 외판원 순회 (Gold I)](https://www.acmicpc.net/problem/2098) |
 | 7    | 프로그래머스 - **2022 KAKAO TECH INTERNSHIP** 기출문제   | [프로그래머스] [118666. 성격 유형 검사하기 (Lv.1)](https://school.programmers.co.kr/learn/courses/30/lessons/118666)<br/>[프로그래머스] [118667. 두 큐 합 같게 만들기 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/118667)<br/>[프로그래머스] [118668. 코딩 테스트 공부 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/118668)<br/>[프로그래머스] [118669. 등산코스 정하기 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/118669) |
 | 8    | 프로그래머스 - **2022 KAKAO BLIND RECRUITMENT** 기출문제 | [프로그래머스] [92341. 주차 요금 계산 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92341)<br/>[프로그래머스] [92342. 양궁대회 (Lv.2)](https://school.programmers.co.kr/learn/courses/30/lessons/92342)<br/>[프로그래머스] [92343. 양과 늑대 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/92343)<br/>[프로그래머스] [92344. 파괴되지 않은 건물 (Lv.3)](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+|      | ----- Season 2 -----                                     |                                                              |
+| 9    | 백준 - 각자 1문제씩 선정                                 | [백준] [2206. 벽 부수고 이동하기 (Gold III)](https://www.acmicpc.net/problem/2206)<br/>[백준] [10775. 공항 (Gold II)](https://www.acmicpc.net/problem/10775)<br/>[백준] [2812. 크게 만들기 (Gold III)](https://www.acmicpc.net/problem/2812)<br/>[백준] [23326. 홍익 투어리스트 (Gold III)](https://www.acmicpc.net/problem/23326) |
+| 10   | 백준 - 각자 1문제씩 선정                                 | [백준] [2623. 음악프로그램 (Gold III)](https://www.acmicpc.net/problem/2623)<br/>[백준] [14890. 경사로 (Gold III)](https://www.acmicpc.net/problem/14890)<br/>[백준] [1360. 되돌리기 (Gold V)](https://www.acmicpc.net/problem/1360)<br/>[백준] [2252. 줄 세우기 (Gold III)](https://www.acmicpc.net/problem/2252) |
+| 11   |                                                          |                                                              |
 
 <br/>
 
-### TEAM B - Afternoon
+### TEAM B - Afternoon (Season 1), Team B1 (Season 2)
 
-| 주차 | 테마                              |
-| ---- | --------------------------------- |
-| 0    | Kick-Off                          |
-| 1    | Brute-Force                       |
-| 2    | Implementation, Sorting           |
-| 3    | Binary Search, Parametric Search  |
-| 4    | Stack, Queue                      |
-| 5    | BFS, DFS                          |
-| 6    | Backtracking                      |
-| 7    | Greedy                            |
-| 8    | Dynamic Programming               |
-| 9    | Dijkstra                          |
-| 10   | 자유 문제                         |
-| 11   | Union-Find, Minimum Spanning Tree |
-| 12   | Topological Sort                  |
+| 주차 | 테마                              |                                                              |
+| ---- | --------------------------------- | ------------------------------------------------------------ |
+| 0    | Kick-Off                          |                                                              |
+| 1    | Brute-Force                       |                                                              |
+| 2    | Implementation, Sorting           |                                                              |
+| 3    | Binary Search, Parametric Search  |                                                              |
+| 4    | Stack, Queue                      |                                                              |
+| 5    | BFS, DFS                          |                                                              |
+| 6    | Backtracking                      |                                                              |
+| 7    | Greedy                            |                                                              |
+| 8    | Dynamic Programming               |                                                              |
+| 9    | Dijkstra                          |                                                              |
+| 10   | 자유 문제                         |                                                              |
+| 11   | Union-Find, Minimum Spanning Tree |                                                              |
+| 12   | Topological Sort                  |                                                              |
+|      | ----- Season 2 -----              |                                                              |
+| 13   | 백준 - 선정 문제                  | [백준] [2559. 수열 (Silver III)](https://www.acmicpc.net/problem/2559)<br/>[백준] [1541. 잃어버린 괄호 (Silver II)](https://www.acmicpc.net/problem/1541)<br/>[백준] [1654. 랜선 자르기 (Silver II)](https://www.acmicpc.net/problem/1654)<br/>[백준] [11049. 행렬 곱셈 순서 (Gold III)](https://www.acmicpc.net/problem/11049) |
+|      |                                   |                                                              |
 
 <br/>
 
-### TEAM B - Morning
+### TEAM B - Morning (Season 1)
 
 | 주차 | 테마                                   |
 | ---- | -------------------------------------- |
@@ -218,5 +244,17 @@
 | 6    | BFS / DFS                              |
 | 7    | Greedy                                 |
 | 8    | Floyd-Warshall, Bellman-Ford, Dijkstra |
-| 9    |                                        |
 
+<br/>
+
+### TEAM B2 (Season 2)
+
+| 주차 | 테마        | 비고                                                         |
+| ---- | ----------- | ------------------------------------------------------------ |
+| 1    | Brute-Force | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 7문제](https://school.programmers.co.kr/learn/courses/30/parts/12230) |
+|      |             |                                                              |
+|      |             |                                                              |
+
+<br/>
+
+### TEAM C (Season 2)
