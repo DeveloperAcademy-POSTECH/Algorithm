@@ -204,30 +204,34 @@
 |      | ----- Season 2 -----                                     |                                                              |
 | 9    | 백준 - 각자 1문제씩 선정                                 | [백준] [2206. 벽 부수고 이동하기 (Gold III)](https://www.acmicpc.net/problem/2206)<br/>[백준] [10775. 공항 (Gold II)](https://www.acmicpc.net/problem/10775)<br/>[백준] [2812. 크게 만들기 (Gold III)](https://www.acmicpc.net/problem/2812)<br/>[백준] [23326. 홍익 투어리스트 (Gold III)](https://www.acmicpc.net/problem/23326) |
 | 10   | 백준 - 각자 1문제씩 선정                                 | [백준] [2623. 음악프로그램 (Gold III)](https://www.acmicpc.net/problem/2623)<br/>[백준] [14890. 경사로 (Gold III)](https://www.acmicpc.net/problem/14890)<br/>[백준] [1360. 되돌리기 (Gold V)](https://www.acmicpc.net/problem/1360)<br/>[백준] [2252. 줄 세우기 (Gold III)](https://www.acmicpc.net/problem/2252) |
-| 11   |                                                          |                                                              |
+| 11   | 백준 - 각자 1문제씩 선정                                 | [백준] [11049. 행렬 곱셈 순서 (Gold III)](https://www.acmicpc.net/problem/11049)<br/>[백준] [1520. 내리막 길 (Gold III)](https://www.acmicpc.net/problem/1520)<br/>[백준] [3109. 빵집 (Gold II)](https://www.acmicpc.net/problem/3109)<br/>[백준] [16236. 아기 상어 (Gold III)](https://www.acmicpc.net/problem/16236) |
+| 12   | 백준 - 각자 1문제씩 선정                                 | [백준] [1700. 멀티탭 스케줄링 (Gold I)](https://www.acmicpc.net/problem/1700)<br/>[백준] [1451. 직사각형으로 나누기 (Gold IV)](https://www.acmicpc.net/problem/1451)<br/>[백준] [14254. 비밀번호 변경 (Gold V)](https://www.acmicpc.net/problem/14254)<br/>[백준] [21608. 상어 초등학교 (Gold V)](https://www.acmicpc.net/problem/21608)<br/> |
+| 13   |                                                          |                                                              |
 
 <br/>
 
 ### TEAM B - Afternoon (Season 1), Team B1 (Season 2)
 
-| 주차 | 테마                              |                                                              |
-| ---- | --------------------------------- | ------------------------------------------------------------ |
-| 0    | Kick-Off                          |                                                              |
-| 1    | Brute-Force                       |                                                              |
-| 2    | Implementation, Sorting           |                                                              |
-| 3    | Binary Search, Parametric Search  |                                                              |
-| 4    | Stack, Queue                      |                                                              |
-| 5    | BFS, DFS                          |                                                              |
-| 6    | Backtracking                      |                                                              |
-| 7    | Greedy                            |                                                              |
-| 8    | Dynamic Programming               |                                                              |
-| 9    | Dijkstra                          |                                                              |
-| 10   | 자유 문제                         |                                                              |
-| 11   | Union-Find, Minimum Spanning Tree |                                                              |
-| 12   | Topological Sort                  |                                                              |
-|      | ----- Season 2 -----              |                                                              |
-| 13   | 백준 - 선정 문제                  | [백준] [2559. 수열 (Silver III)](https://www.acmicpc.net/problem/2559)<br/>[백준] [1541. 잃어버린 괄호 (Silver II)](https://www.acmicpc.net/problem/1541)<br/>[백준] [1654. 랜선 자르기 (Silver II)](https://www.acmicpc.net/problem/1654)<br/>[백준] [11049. 행렬 곱셈 순서 (Gold III)](https://www.acmicpc.net/problem/11049) |
-|      |                                   |                                                              |
+| 주차 | 테마                                                         |                                                              |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 0    | Kick-Off                                                     |                                                              |
+| 1    | Brute-Force                                                  |                                                              |
+| 2    | Implementation, Sorting                                      |                                                              |
+| 3    | Binary Search, Parametric Search                             |                                                              |
+| 4    | Stack, Queue                                                 |                                                              |
+| 5    | BFS, DFS                                                     |                                                              |
+| 6    | Backtracking                                                 |                                                              |
+| 7    | Greedy                                                       |                                                              |
+| 8    | Dynamic Programming                                          |                                                              |
+| 9    | Dijkstra                                                     |                                                              |
+| 10   | 자유 문제                                                    |                                                              |
+| 11   | Union-Find, Minimum Spanning Tree                            |                                                              |
+| 12   | Topological Sort                                             |                                                              |
+|      | ----- Season 2 -----                                         |                                                              |
+| 13   | 백준 - 선정 문제<br/>출제 의도: 구간합(prefix sum), DP, 그리디, 이진탐색 | [백준] [2559. 수열 (Silver III)](https://www.acmicpc.net/problem/2559)<br/>[백준] [1541. 잃어버린 괄호 (Silver II)](https://www.acmicpc.net/problem/1541)<br/>[백준] [1654. 랜선 자르기 (Silver II)](https://www.acmicpc.net/problem/1654)<br/>[백준] [11049. 행렬 곱셈 순서 (Gold III)](https://www.acmicpc.net/problem/11049) |
+| 14   | 백준 - 선정 문제<br/>출제 의도: 이진탐색, DFS, BFS, DP, 백트래킹 | [백준] [2467. 용액 (Gold V)](https://www.acmicpc.net/problem/2467)<br/>[백준] [1012. 유기농 배추 (Silver II)](https://www.acmicpc.net/problem/1012)<br/>[백준] [11053. 가장 긴 증가하는 부분 수열 (Silver II)](https://www.acmicpc.net/problem/11053)<br/>[백준] [15663. N과 M (9) (Silver II)](https://www.acmicpc.net/problem/15663)<br/>[백준] [2512. 예산 (Silver II)](https://www.acmicpc.net/problem/2512) |
+| 15   | 백준 - 선정 문제<br/>출제 의도: DP, BFS, Greedy, 우선순위 큐, 이진탐색, Two Pointer | [백준] [12852. 1로 만들 2 (Silver I)](https://www.acmicpc.net/problem/12852)<br/>[백준] [7569. 토마토 (Gold V)](https://www.acmicpc.net/problem/7569)<br/>[백준] [1715. 카드 정렬하기 (Gold IV)](https://www.acmicpc.net/problem/1715)<br/>[백준] [2473. 세 용액 (Gold III)](https://www.acmicpc.net/problem/2473) |
+| 16   |                                                              |                                                              |
 
 <br/>
 
@@ -249,12 +253,19 @@
 
 ### TEAM B2 (Season 2)
 
-| 주차 | 테마        | 비고                                                         |
-| ---- | ----------- | ------------------------------------------------------------ |
-| 1    | Brute-Force | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 7문제](https://school.programmers.co.kr/learn/courses/30/parts/12230) |
-|      |             |                                                              |
-|      |             |                                                              |
+| 주차 | 테마         | 비고                                                         |
+| ---- | ------------ | ------------------------------------------------------------ |
+| 1    | Brute-Force  | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 7문제](https://school.programmers.co.kr/learn/courses/30/parts/12230) |
+| 2    | Stack, Queue | [[프로그래머스] 코딩테스트 고득점 Kit - 스택/큐 앞 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12081)<br/>- 같은 숫자는 싫어, 기능개발, 올바른 괄호, 프로세스<br/>[바킹독의 실전 알고리즘 강의 - 5~8강](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) |
+| 3    | Hash         | [[프로그래머스] 코딩테스트 고득점 Kit - 해시](https://school.programmers.co.kr/learn/courses/30/parts/12077)<br/>[바킹독의 실전 알고리즘 강의 - 15강(해시)](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) |
 
 <br/>
 
 ### TEAM C (Season 2)
+
+| 주차 | 테마         | 비고                                                         |
+| ---- | ------------ | ------------------------------------------------------------ |
+| 1    | Brute-Force  | -                                                            |
+| 2    | Brute-Froce  | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 앞 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12230)<br/>최소직사각형, 모의고사, 소수 찾기, 카펫 |
+| 3    | Stack, Queue | [[프로그래머스] 코딩테스트 고득점 Kit - 스택/큐 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12081)<br/>- 기능개발, 올바른 괄호, 프로세스, 다리를 지나는 트럭, 주식가격 |
+
