@@ -11,7 +11,7 @@ using namespace std;
 
 #define ii pair<int, int>
 
-int map[22][22];
+int board[22][22];
 bool check[22][22];
 queue<ii> q;
 int result = 0;
@@ -39,7 +39,7 @@ public:
 	void Eat(int x, int y) {
 
 		food++;
-		map[x][y] = 0;
+		board[x][y] = 0;
 		pos = { x,y };
 		if (food == level) {
 			level++;
@@ -52,7 +52,7 @@ mini m;
 bool canGo(int nx, int ny) {
 	if (check[nx][ny] == true) return false;
 	if (nx <1 || ny < 1 || nx>n || ny > n) return false;
-	if (map[nx][ny] > m.level) return false;
+	if (board[nx][ny] > m.level) return false;
 
 	return true;
 }
@@ -74,7 +74,7 @@ int bfs() {
 				if (canGo(nx, ny) == false) { continue; }
 				check[nx][ny] = true;
 
-				int there = map[nx][ny];
+				int there = board[nx][ny];
 
 				if (there != 0 && there < m.level) {
 					pq.push({ nx, ny });
@@ -102,11 +102,11 @@ int main() {
 
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
-			cin >> map[i][j];
-			if (map[i][j] == 9) {
+			cin >> board[i][j];
+			if (board[i][j] == 9) {
 				m.pos = { i,j };
 				q.push({ i,j });
-				map[i][j] = 0;
+				board[i][j] = 0;
 			}
 		}
 	}
