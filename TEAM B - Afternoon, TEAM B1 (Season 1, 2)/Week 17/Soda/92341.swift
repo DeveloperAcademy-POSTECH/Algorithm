@@ -9,6 +9,11 @@
 
 import Foundation
 
+/*
+ 시간 간격을 계산하는 함수
+05:39 형식의 String 타입의 시간을 : 를 이용하여 시, 분으로 구분
+ 출차 시간과 입차 시간의 간격을 구해서 return
+ */
 func calculateTimeInterval(_ inTime: String, _ outTime: String) -> Int {
     let inLine = inTime.split(separator: ":").map { Int($0)! }
     let outLine = outTime.split(separator: ":").map { Int($0)! }
