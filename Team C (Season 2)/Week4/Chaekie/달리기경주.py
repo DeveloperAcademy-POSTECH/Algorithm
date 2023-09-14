@@ -16,10 +16,25 @@ def solution1(players, callings):
     return answer
 
 
-# 처음 풀이 -> 시간초과
+
+# dictionary 한개만 쓰기
 def solution2(players, callings):
+    pla_dic = {key: i for i, key in enumerate(players)}
+
+    for calling in callings:
+        rank = pla_dic[calling]
+        pla_dic[calling] -= 1
+        pla_dic[players[rank-1]] += 1
+        players[rank-1], players[rank] = players[rank], players[rank-1]
+
+    return players
+
+
+# 처음 풀이 -> 시간초과
+def solution3(players, callings):
     for calling in callings:
         for idx, player in enumerate(players):
             if calling == player:
                 players[idx], players[idx -1] = players[idx -1], players[idx]
     return players
+

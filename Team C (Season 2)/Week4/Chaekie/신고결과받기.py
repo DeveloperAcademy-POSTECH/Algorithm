@@ -23,15 +23,16 @@ def solution1(id_list, report, k):
 
 
 # report 자체를 set 해주면 됨
+# id_list의 인덱스값을 이용해 reporter 이름이랑 매치함
 def solution2(id_list, report, k):
     answer = [0] * len(id_list)    
-    reports = {x : 0 for x in id_list}
+    report_dict = {id : 0 for id in id_list}
 
-    for r in set(report):
-        reports[r.split()[1]] += 1
+    for reporter in set(report):
+        report_dict[reporter.split()[1]] += 1
 
-    for r in set(report):
-        if reports[r.split()[1]] >= k:
-            answer[id_list.index(r.split()[0])] += 1
+    for reporter in set(report):
+        if report_dict[reporter.split()[1]] >= k:
+            answer[id_list.index(reporter.split()[0])] += 1
 
     return answer
