@@ -8,6 +8,7 @@
 
 
 /*
+1. for-stride 구문
 입력받을 때 양수 배열, 음수 배열(0 포함)로 나누어 받는다.
 [양수 배열]
 1. 배열의 개수가 짝수 개일 때는 큰 순서대로 차례차례 묶어 준다.
@@ -20,6 +21,57 @@
 3. 0이 포함되어 있는데 짝수 개수인 경우 - 제일 큰 수(절댓값이 가장 작은 수) * 0
 4. 0이 포함되어 있는데 홀수 개수인 경우 - 제일 작은 수(절댓값이 가장 큰 수) * 0
 */
+
+//let N = Int(readLine()!)!
+//var minus = [Int]()
+//var plus = [Int]()
+//
+//// 음수 배열, 양수 배열로 나누기
+//for _ in 0..<N {
+//    let num = Int(readLine()!)!
+//    if num <= 0 {
+//        minus.append(num)
+//    } else {
+//        plus.append(num)
+//    }
+//}
+//
+//var answer = 0
+//
+//// 양수 배열 - 큰수부터 순회하면서 짝지어서 곱하기
+//plus.sort(by: >)
+//var last = plus.count % 2 == 0 ? 0 : plus.removeLast()
+//
+//for i in stride(from: 0, to: plus.count, by: 2) {
+//    answer += max(plus[i] * plus[i+1], plus[i] + plus[i+1])
+//}
+//answer += last
+//
+//
+//minus.sort(by: <)
+//if minus.contains(0) { // 0이 포함되어 있는 경우
+//    if minus.count == 1 {
+//        answer += 0
+//    } else {
+//        minus.removeLast() // 0 제거
+//        let _ = minus.count % 2 == 0 ? minus.removeFirst() : minus.removeLast()
+//        let tmp = minus.count % 2 == 0 ? 0 : minus.removeLast()
+//
+//        for i in stride(from: 0, to: minus.count, by: 2) {
+//            answer += (minus[i] * minus[i+1])
+//        }
+//        answer += tmp
+//    }
+//} else { // 0이 포함되어 있지 않은 경우
+//    let max = minus.count % 2 == 0 ? 0 : minus.removeLast()
+//    for i in stride(from: 0, to: minus.count, by: 2) {
+//        answer += (minus[i] * minus[i+1])
+//    }
+//    answer += max
+//}
+//print(answer)
+
+// 2. while문으로 -> 따로 0에 대한 처리를 하지 않아도 됨
 
 let N = Int(readLine()!)!
 var minus = [Int]()
@@ -35,37 +87,32 @@ for _ in 0..<N {
     }
 }
 
-var answer = 0
-
-// 양수 배열 - 큰수부터 순회하면서 짝지어서 곱하기
 plus.sort(by: >)
-var last = plus.count % 2 == 0 ? 0 : plus.removeLast()
-
-for i in stride(from: 0, to: plus.count, by: 2) {
-    answer += max(plus[i] * plus[i+1], plus[i] + plus[i+1])
-}
-answer += last
-
-
 minus.sort(by: <)
-if minus.contains(0) { // 0이 포함되어 있는 경우
-    if minus.count == 1 {
-        answer += 0
-    } else {
-        minus.removeLast() // 0 제거
-        let _ = minus.count % 2 == 0 ? minus.removeFirst() : minus.removeLast()
-        let tmp = minus.count % 2 == 0 ? 0 : minus.removeLast()
 
-        for i in stride(from: 0, to: minus.count, by: 2) {
-            answer += (minus[i] * minus[i+1])
-        }
-        answer += tmp
+var answer = 0
+var index = 0
+
+while index < plus.count {
+    if index + 1 < plus.count && plus[index] > 1 && plus[index+1] > 1 {
+        answer += plus[index] * plus[index+1]
+        index += 2
+    } else {
+        answer += plus[index]
+        index += 1
     }
-} else { // 0이 포함되어 있지 않은 경우
-    let max = minus.count % 2 == 0 ? 0 : minus.removeLast()
-    for i in stride(from: 0, to: minus.count, by: 2) {
-        answer += (minus[i] * minus[i+1])
-    }
-    answer += max
 }
+
+index = 0 // -5 -3 -2 0 | -5 -3 -4 -1 0
+while index < minus.count {
+    if index + 1 < minus.count {
+        answer += minus[index] * minus[index+1]
+        index += 2
+    } else {
+        answer += minus[index]
+        index += 1
+    }
+}
+
 print(answer)
+
