@@ -3,14 +3,17 @@ from dateutil.relativedelta import relativedelta
 
 def solution(today, terms, privacies):
     answer = []
-    now = datetime.strptime(today.replace('.', ''), "%Y%m%d")
+    # now = datetime.strptime(today.replace('.', ''), "%Y%m%d")
+    now = datetime.strptime(today, "%Y.%m.%d")
     terms_dct = {terms[i].split()[0]: int(terms[i].split()[1]) for i in range(len(terms))}
     
     for idx, privacie in enumerate(privacies):
-        start_date = datetime.strptime(privacie.split()[0].replace('.', ''), "%Y%m%d")
+        # start_date = datetime.strptime(privacie.split()[0].replace('.', ''), "%Y%m%d")
+        start_date = datetime.strptime(privacie.split()[0], "%Y.%m.%d")
         term = privacie.split()[1]
         
-        if start_date + relativedelta(months=terms_dct[term]) - relativedelta(days=1) < now:
+        # if start_date + relativedelta(months=terms_dct[term]) - relativedelta(days=1) < now:
+        if start_date + relativedelta(months=terms_dct[term]) <= now:
             answer.append(idx+1)
     return answer
 
