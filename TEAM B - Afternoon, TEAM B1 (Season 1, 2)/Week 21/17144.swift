@@ -118,9 +118,4 @@ for _ in 0..<T { // T초 동안 반복
     operateDownAirCleaner()
 }
 
-var answer = 0
-matrix.forEach { row in
-    answer += row.filter { $0 != 0 }.reduce(0, +)
-}
-
-print(answer + 2) // 0일 때만 제외하였으므로, 공기청정기(-2) 값을 더해줌
+print(matrix.flatMap { $0 }.filter { $0 > 0 }.reduce(0, +))
