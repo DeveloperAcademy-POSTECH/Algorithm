@@ -210,7 +210,7 @@
 | 14   | 백준 - 지각생 우디 선정 4문제 특집                       | [백준] [12904. A와 B (Gold V)](https://www.acmicpc.net/problem/12904)<br/>[백준] [2170. 선 긋기 (Gold V)](https://www.acmicpc.net/problem/2170)<br/>[백준] [19236. 청소년 상어 (Gold II)](https://www.acmicpc.net/problem/19236)<br/>[백준] [14852. 타일 채우기 3 (Gold IV)](https://www.acmicpc.net/problem/14852) |
 | 15   | 백준 - 각자 1문제씩 선정                                 | [백준] [17142. 연구소 3 (Gold III)](https://www.acmicpc.net/problem/17142)<br/>[백준] [1277. 발전소 설치 (Gold IV)](https://www.acmicpc.net/problem/1277)<br/>[백준] [15486. 퇴사 2 (Gold V)](https://www.acmicpc.net/problem/15486)<br/>[백준] [2504. 괄호의 값 (Gold V)](https://www.acmicpc.net/problem/2504) |
 | 16   | 백준 - 각자 1문제씩 선정                                 | [백준] [2638. 치즈 (Gold III)](https://www.acmicpc.net/problem/2638)<br/>[백준] [17144. 미세먼지 안녕! (Gold IV)](https://www.acmicpc.net/problem/17144)<br/>[백준] [1911. 흙길 보수하기 (Gold V)](https://www.acmicpc.net/problem/1911)<br/>[백준] [2780. 비밀번호 (Silver I)](https://www.acmicpc.net/problem/2780) |
-| 17   | 백준 - 각자 1문제씩 선정                                 |                                                              |
+| 17   | 백준 - 각자 1문제씩 선정                                 | [백준] [18119. 단어 암기 (Gold IV)](https://www.acmicpc.net/problem/18119)<br/>[백준] [20040. 사이클 게임 (Gold IV)](https://www.acmicpc.net/problem/20040)<br/>[백준] [12026. BOJ 거리 (Silver I)](https://www.acmicpc.net/problem/12026)<br/>[백준] [2212. 센서 (Gold V)](https://www.acmicpc.net/problem/2212) |
 
 <br/>
 
@@ -279,15 +279,15 @@
 
 ### TEAM C (Season 2)
 
-| 주차 | 테마         | 비고                                                         |
-| ---- | ------------ | ------------------------------------------------------------ |
-| 1    | Brute-Force  | -                                                            |
-| 2    | Brute-Froce  | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 앞 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12230)<br/>최소직사각형, 모의고사, 소수 찾기, 카펫 |
-| 3    | Stack, Queue | [[프로그래머스] 코딩테스트 고득점 Kit - 스택/큐 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12081)<br/>- 기능개발, 올바른 괄호, 프로세스, 다리를 지나는 트럭, 주식가격 |
-| 4    | 구현 연습    | [프로그래머스] [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<br/>[프로그래머스] [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)<br/>[프로그래머스] [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)<br/>[프로그래머스] [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)<br/>[프로그래머스] [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |
-| 5    | 구현 연습    | [프로그래머스] [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)<br/>[프로그래머스] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)<br/>[프로그래머스] [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)<br/>[프로그래머스] [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |
-| 6    | DFS, BFS     | [백준] [1260. DFS와 BFS (Silver II)](https://www.acmicpc.net/problem/1260)<br/>[백준] [1012. 유기농 배추 (Silver II)](https://www.acmicpc.net/problem/1012)<br/>[백준] [1697. 숨바꼭질 (Silver I)](https://www.acmicpc.net/problem/1697)<br/>[백준] [2606. 바이러스 (Silver III)](https://www.acmicpc.net/problem/2606)<br/>[백준] [17086. 아기 상어 2 (Silver II)](https://www.acmicpc.net/problem/17086) |
-| 7    | DFS, BFS     | [[프로그래머스] 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421) |
-| 8    | Greedy       | [[프로그래머스] 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)<br/>-> 체육복, 큰 수 만들기<br/>[백준] [11399. ATM (Silver IV)](https://www.acmicpc.net/problem/11399)<br/>[백준] [1541. 잃어버린 괄호 (Silver II)](https://www.acmicpc.net/problem/1541)<br/>[백준] [1931. 회의실 배정 (Silver I)](https://www.acmicpc.net/problem/1931) |
-|      |              |                                                              |
+| 주차 | 테마                | 비고                                                         |
+| ---- | ------------------- | ------------------------------------------------------------ |
+| 1    | Brute-Force         | -                                                            |
+| 2    | Brute-Froce         | [[프로그래머스] 코딩테스트 고득점 Kit - 완전탐색 앞 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12230)<br/>최소직사각형, 모의고사, 소수 찾기, 카펫 |
+| 3    | Stack, Queue        | [[프로그래머스] 코딩테스트 고득점 Kit - 스택/큐 4문제](https://school.programmers.co.kr/learn/courses/30/parts/12081)<br/>- 기능개발, 올바른 괄호, 프로세스, 다리를 지나는 트럭, 주식가격 |
+| 4    | 구현 연습           | [프로그래머스] [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)<br/>[프로그래머스] [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)<br/>[프로그래머스] [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)<br/>[프로그래머스] [크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061)<br/>[프로그래머스] [키패드 누르기](https://school.programmers.co.kr/learn/courses/30/lessons/67256) |
+| 5    | 구현 연습           | [프로그래머스] [달리기 경주](https://school.programmers.co.kr/learn/courses/30/lessons/178871)<br/>[프로그래머스] [신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)<br/>[프로그래머스] [로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)<br/>[프로그래머스] [[1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) |
+| 6    | DFS, BFS            | [백준] [1260. DFS와 BFS (Silver II)](https://www.acmicpc.net/problem/1260)<br/>[백준] [1012. 유기농 배추 (Silver II)](https://www.acmicpc.net/problem/1012)<br/>[백준] [1697. 숨바꼭질 (Silver I)](https://www.acmicpc.net/problem/1697)<br/>[백준] [2606. 바이러스 (Silver III)](https://www.acmicpc.net/problem/2606)<br/>[백준] [17086. 아기 상어 2 (Silver II)](https://www.acmicpc.net/problem/17086) |
+| 7    | DFS, BFS            | [[프로그래머스] 코딩테스트 고득점 Kit - 깊이/너비 우선 탐색(DFS/BFS)](https://school.programmers.co.kr/learn/courses/30/parts/12421) |
+| 8    | Greedy              | [[프로그래머스] 코딩테스트 고득점 Kit - 탐욕법(Greedy)](https://school.programmers.co.kr/learn/courses/30/parts/12244)<br/>-> 체육복, 큰 수 만들기<br/>[백준] [11399. ATM (Silver IV)](https://www.acmicpc.net/problem/11399)<br/>[백준] [1541. 잃어버린 괄호 (Silver II)](https://www.acmicpc.net/problem/1541)<br/>[백준] [1931. 회의실 배정 (Silver I)](https://www.acmicpc.net/problem/1931) |
+| 9    | Dynamic Programming | [백준] [2748. 피보나치 수 2 (Bronze I)](https://www.acmicpc.net/problem/2748)<br/>[백준] [9095. 1, 2, 3 더하기 (Silver III)](https://www.acmicpc.net/problem/9095)<br/>[백준] [1912. 연속합 (Silver II)](https://www.acmicpc.net/problem/1912) |
 
